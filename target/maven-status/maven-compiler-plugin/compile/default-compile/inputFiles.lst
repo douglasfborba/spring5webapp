@@ -1,0 +1,10 @@
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/repository/BookRepository.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/bootstrap/BootstrapData.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/Spring5webappApplication.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/controller/BookController.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Author.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/repository/PublisherRepository.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/repository/AuthorRepository.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Publisher.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Address.java
+/home/douglas/Git/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Book.java
